@@ -1,8 +1,8 @@
 # sehmaluva - Profile 🚀
 
 ## 👋 Quick Intro
-- **Name**: Seh Maluva
-- **School**: Bindura University Of Science Education
+- **Name**: Ayman l Ayman   
+- **School**: Education NONO
 - **Field of Study**: BSc.Software Engineering
 - **Interests**: Open Source, Software Development, Community Building
 - **Skills**: JavaScript, Python, Java, C++, Git, Docker
